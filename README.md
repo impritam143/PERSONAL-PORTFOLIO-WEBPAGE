@@ -35,3 +35,6 @@ By making this portfolio, I improved my skills in HTML and CSS. I learned how to
 
 This portfolio is very helpful for job opportunities, internships, and college projects. It shows that I can build a full webpage and present my knowledge in a neat and useful way
 In short, this Personal Portfolio Webpage is a great way to share my profile and work with the world. It is simple, well-organized, and can be updated in the future with more features like animations, JavaScript, or backend support.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/9875e79f-3104-4286-bc1a-f62eafb06fde)
