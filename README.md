@@ -11,7 +11,6 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 
 DESCRIPTION OF THE TASKS:
-COMPANY: CODTECH IT SOLUTIONS
 
 The Personal Portfolio Webpage is a simple, attractive, and mobile-friendly website created to introduce myself as a developer. I made this project using only HTML and CSS, without any complex tools. It shows my basic web development skills and helps others know more about me, my projects, and how to contact me. This project is a part of my frontend internship at Codtech IT Solutions Pvt. Ltd.
 The main goal of this portfolio website is to present my work and skills in a clean and professional way. It works like an online resume, where anyone can visit and learn about what I do, what technologies I use, and the projects I have built.
